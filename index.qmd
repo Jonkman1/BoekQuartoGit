@@ -1,9 +1,18 @@
-# Preface {.unnumbered}
+# Voorwoord {.unnumbered}
 
-This is a Quarto book.
+![](img/Voorkant.png)
+<br>
+<br>
+Dit is een uitgave van het Kennisplatform Integratie & Samenleving.
 
-To learn more about Quarto books visit <https://quarto.org/docs/books>.
+https://www.kis.nl/
 
-```{r}
-1 + 1
-```
+https://www.verwey-jonker.nl/
+
+Auteurs:
+
+https://www.verwey-jonker.nl/over-ons/medewerkers/esther-horrevorts
+
+https://www.verwey-jonker.nl/over-ons/medewerkers/hans_bellaart
+
+[Hier](https://www.kis.nl/publicatie/leefomstandigheden-inwoners-met-een-antilliaanse-achtergrond-den-haag) is het oorspronkelijke rapport te vinden. 

@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "BoekQuarto",
+    "section": "",
+    "text": "Dit is een uitgave van het Kennisplatform Integratie & Samenleving.\nhttps://www.kis.nl/\nhttps://www.verwey-jonker.nl/\nAuteurs:\nhttps://www.verwey-jonker.nl/over-ons/medewerkers/esther-horrevorts\nhttps://www.verwey-jonker.nl/over-ons/medewerkers/hans_bellaart\nHier is het oorspronkelijke rapport te vinden."
+  },
+  {
+    "objectID": "intro.html",
+    "href": "intro.html",
+    "title": "1  Introduction",
+    "section": "",
+    "text": "See Knuth (1984) for additional discussion of literate programming.\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+  },
+  {
+    "objectID": "summary.html",
+    "href": "summary.html",
+    "title": "2  Summary",
+    "section": "",
+    "text": "1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "References",
+    "section": "",
+    "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+  }
+]
