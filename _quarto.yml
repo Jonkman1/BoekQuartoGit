@@ -9,6 +9,9 @@ book:
     - index.qmd
     - 00-inl.qmd
     - 01-ant.qmd
+    - 02-opl.qmd
+    - 03-werk.qmd
+    - 04-zorg.qmd
     - summary.qmd
     - references.qmd
 
