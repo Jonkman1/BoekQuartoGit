@@ -3,7 +3,7 @@ project:
 
 book:
   title: "BoekQuarto"
-  author: "Jane Doe"
+  author: "Harrie Jonkman (opmaak)"
   date: "5-9-2022"
   chapters:
     - index.qmd
@@ -12,7 +12,10 @@ book:
     - 02-opl.qmd
     - 03-werk.qmd
     - 04-zorg.qmd
-    - summary.qmd
+    - 05-zorgjeugd.qmd
+    - 06-gez.qmd
+    - 07-crim.qmd
+    - 08-conc.qmd
     - references.qmd
 
 bibliography: DHlit.bib
