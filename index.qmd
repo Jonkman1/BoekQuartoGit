@@ -1,9 +1,6 @@
 # Voorwoord {.unnumbered}
 
-![](img/Voorkant.png)
-<br>
-<br>
-Dit is een uitgave van het Kennisplatform Integratie & Samenleving.
+![](img/Voorkant.png) <br> <br> Dit is een uitgave van het Kennisplatform Integratie & Samenleving.
 
 https://www.kis.nl/
 
@@ -15,4 +12,4 @@ https://www.verwey-jonker.nl/over-ons/medewerkers/esther-horrevorts
 
 https://www.verwey-jonker.nl/over-ons/medewerkers/hans_bellaart
 
-[Hier](https://www.kis.nl/publicatie/leefomstandigheden-inwoners-met-een-antilliaanse-achtergrond-den-haag) is het oorspronkelijke rapport te vinden. 
+[Hier](https://www.kis.nl/publicatie/leefomstandigheden-inwoners-met-een-antilliaanse-achtergrond-den-haag) is het oorspronkelijke rapport te vinden.

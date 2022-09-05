@@ -7,11 +7,12 @@ book:
   date: "5-9-2022"
   chapters:
     - index.qmd
-    - intro.qmd
+    - 00-inl.qmd
+    - 01-ant.qmd
     - summary.qmd
     - references.qmd
 
-bibliography: references.bib
+bibliography: DHlit.bib
 
 format:
   html:
